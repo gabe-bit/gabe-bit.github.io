@@ -1,0 +1,21 @@
+<title> Translations
+<style>
+  body {
+      background-color: #fce4ec;
+      font-family: Arial;
+      text-align: center;
+      padding: 50px;
+    }
+
+    h1 {
+        color: #d63384;
+    }
+  </style>
+</head>
+</body>
+
+  <h1> Welcome </h1>
+  <p> This website </p>
+
+</body>
+</html>
